@@ -1,0 +1,22 @@
+#caja1, #caja2, #caja3 {
+    background-color: violet;
+    color: blue;
+    border: red solid 5px;
+}
+
+#caja1 {
+    float: right;
+    width: 200px;
+    height: 300px;
+}
+
+#caja2{
+    float: right;
+    width: 200px;
+    height: 300px;
+}
+
+#caja3{
+    width: 500px;
+    height: 300px;
+}
